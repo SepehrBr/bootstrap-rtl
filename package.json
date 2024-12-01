@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "minifier": "^0.8.1"
+  },
+  "scripts": {
+    "build": "minify --output boostrap-rtl.min.css bootstrap-rtl.css"
+  }
+}
